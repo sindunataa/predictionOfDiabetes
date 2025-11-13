@@ -1,6 +1,13 @@
+# Core framework
 streamlit==1.38.0
+
+# Data manipulation
 pandas==2.2.2
-numpy==2.1.1
-scikit-learn==1.5.2
-matplotlib==3.9.2
+numpy==1.26.4  
+
+# Machine learning
+scikit-learn==1.4.2  
+
+# Visualization
+matplotlib==3.8.4
 seaborn==0.13.2
